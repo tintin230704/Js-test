@@ -25,7 +25,8 @@ T = parseInt(R) + F; // Fait le calcul de la valeur de Température en degrés c
 alert("le resultat est de : " + T + " °F en Température"); // Affiche un message d'alerte avec le résultat en degrés de température en  Fahrenheit//
 //Affichez "Ceci est une chaîne de caractères :" et concaténez la  chaîne avec la variable a pour afficher "Ceci est une chaîne de caractères : 100".//
 let chaine = "Ceci est une chaîne de caractères :";
-a = 100;
+let a = "100";
+b = 100;
 c = 1.0 + a;
 let nouvelechaine = chaine + a;
 alert(nouvelechaine);
